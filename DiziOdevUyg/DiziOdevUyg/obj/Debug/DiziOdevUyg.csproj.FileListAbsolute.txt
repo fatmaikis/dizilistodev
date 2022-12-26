@@ -1,0 +1,11 @@
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\bin\Debug\DiziOdevUyg.exe.config
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\bin\Debug\DiziOdevUyg.exe
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\bin\Debug\DiziOdevUyg.pdb
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\obj\Debug\DiziOdevUyg.csproj.AssemblyReference.cache
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\obj\Debug\DiziOdevUyg.csproj.SuggestedBindingRedirects.cache
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\obj\Debug\DiziOdevUyg.Form1.resources
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\obj\Debug\DiziOdevUyg.Properties.Resources.resources
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\obj\Debug\DiziOdevUyg.csproj.GenerateResource.cache
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\obj\Debug\DiziOdevUyg.csproj.CoreCompileInputs.cache
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\obj\Debug\DiziOdevUyg.exe
+D:\KursIskur\DiziOdevUyg\DiziOdevUyg\obj\Debug\DiziOdevUyg.pdb
